@@ -1,0 +1,10 @@
+E:\C#\BirthDateString\obj\Debug\BirthDateString.csprojAssemblyReference.cache
+E:\C#\BirthDateString\obj\Debug\BirthDateString.Properties.Resources.resources
+E:\C#\BirthDateString\obj\Debug\BirthDateString.csproj.GenerateResource.cache
+E:\C#\BirthDateString\obj\Debug\BirthDateString.csproj.CoreCompileInputs.cache
+E:\C#\BirthDateString\bin\Debug\BirthDateString.exe.config
+E:\C#\BirthDateString\bin\Debug\BirthDateString.exe
+E:\C#\BirthDateString\bin\Debug\BirthDateString.pdb
+E:\C#\BirthDateString\obj\Debug\BirthDateString.exe
+E:\C#\BirthDateString\obj\Debug\BirthDateString.pdb
+E:\C#\BirthDateString\obj\Debug\BirthDateString.BirthDateStringForm.resources
