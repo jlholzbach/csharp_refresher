@@ -1,0 +1,9 @@
+E:\C#\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+E:\C#\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+E:\C#\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+E:\C#\Language Translator\Language Translator\obj\Debug\Language Translator.csprojAssemblyReference.cache
+E:\C#\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+E:\C#\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.cache
+E:\C#\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.CoreCompileInputs.cache
+E:\C#\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+E:\C#\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
